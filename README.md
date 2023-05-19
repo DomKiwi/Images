@@ -1,2 +1,2 @@
 # Images
-For use
+For general use
